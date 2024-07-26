@@ -23,6 +23,29 @@
       "__resolveType": "site/sections/Logos.tsx"
     },
     {
+      "__resolveType": "site/sections/Faq.tsx",
+      "title": "Innovative and personalized solutions for your business!",
+      "description": "Our team is highly specialized in developing custom and complex digital products.  By leveraging modern tools and methodologies, our agile squads (squad as service) consistently deliver remarkable results for your company.",
+      "questions": [
+        {
+          "answer": "<p>Through methods such as Design Sprint, we craft the ideal solution for your problem, integrating the principles of digital transformation. In this dynamic process, we create an environment that stimulates creativity with the goal of designing the best solution.</p>",
+          "title": "Immersion and Ideation"
+        },
+        {
+          "answer": "<p>Connect with your customers through multi-platform applications and web systems that meet the demands of time, cost, and business objectives, scaling your product and achieving results.</p>",
+          "title": "Squad as a Service"
+        },
+        {
+          "answer": "<p>We assist you in building high-performance software architectures and making the best technical decisions. Through personalized consulting, we also support the management of your product.</p>",
+          "title": "Tech Consulting"
+        },
+        {
+          "answer": "<p>We unlock the collective potential of your technology team by streamlining the hiring of top-notch tech professionals with excellence and agility!</p>",
+          "title": "Hiring Process"
+        }
+      ]
+    },
+    {
       "__resolveType": "site/sections/ImageWithParagraph.tsx"
     },
     {
@@ -35,9 +58,6 @@
     {
       "__resolveType": "site/sections/Testimonials.tsx",
       "arrows": true
-    },
-    {
-      "__resolveType": "site/sections/Faq.tsx"
     },
     {
       "__resolveType": "Footer"
