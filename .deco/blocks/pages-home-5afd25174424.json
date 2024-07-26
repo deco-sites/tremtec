@@ -7,7 +7,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>We transform ideas in <strong>software</strong></p>",
+      "title": "<p>Your Tech Partner for <strong>Innovation</strong></p>",
       "cta": [
         {
           "href": "#contact",
@@ -16,7 +16,8 @@
         }
       ],
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12021/ac5cca87-0ee7-4c25-bf31-a158d7a378c9",
-      "placement": "right"
+      "placement": "left",
+      "description": "Unlock your potential with tech team assembled to build scalable software solutions "
     },
     {
       "__resolveType": "site/sections/Logos.tsx"
